@@ -537,7 +537,7 @@ section {
   color: #16a589;
 
 }
-.titleh2{
+.title h2{
   margin-left: 95px;
   font-weight: 700;
   margin-bottom: 10px;
@@ -1431,7 +1431,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #16a589;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1444,7 +1444,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #16a589;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -2386,7 +2386,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/diarycs.png") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/diarycss.png") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
